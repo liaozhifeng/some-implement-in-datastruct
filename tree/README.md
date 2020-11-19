@@ -7,5 +7,5 @@
 ### case1
 
 $p_r$是要删除结点$p$的父结点，若$p_r$的平衡因子是$0$，则删除$p$后$p_r$的平衡因子变为$-1$或者$1$，且以$p_r$为根的平衡树高度不变，所以整个AVL达到平衡，具体过程如下图。
-![case1](E:\repositories\datastruct\some-implement-in-datastruct\tree\imag\case1.png)
+![case1](https://i.loli.net/2020/11/19/N4MfoQajYKwdsPk.png)
 
